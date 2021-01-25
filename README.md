@@ -8,8 +8,5 @@ Bike share data analysis
 This project analysis the bike share data for three American cities; Chicago, New York City and Washinton.
 
 ### Files used
-Include the files used
-
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Provided are three datasets of bike data for each city
 
