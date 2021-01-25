@@ -92,6 +92,7 @@ def load_data(city, month, day):
     try:
         df = pd.read_csv(CITY_DATA[city])
     except:
+        # Pandas could not be installed on PC
         print('Could not find the database file \"{}\" or pandas library is not installed'.format(CITY_DATA[city]))
         raise SystemExit
     
