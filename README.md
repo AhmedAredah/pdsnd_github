@@ -5,7 +5,7 @@ Project created on Monday Jan 25, 2021.
 Bike share data analysis
 
 ### Description
-Describe what your project is about and what it does
+This project analysis the bike share data for three American cities; Chicago, New York City and Washinton.
 
 ### Files used
 Include the files used
