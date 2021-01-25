@@ -65,6 +65,7 @@ def get_filters():
         if day.lower() not in DAY_LIST: print('make sure you spelled day name correctly!'); continue
 
         #print the selected day
+        # adjust the printed statment to the user filter
         if day.lower() != 'all':
             print('Day "{}" has been selected\n'.format(day))
             break
